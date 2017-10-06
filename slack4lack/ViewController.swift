@@ -10,8 +10,6 @@ import Cocoa
 
 class ViewController: NSViewController {
     
-    int i
-
     override func viewDidLoad() {
         super.viewDidLoad()
 
